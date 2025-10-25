@@ -2,7 +2,7 @@
 
 > Because great code requires great fuel
 
-A gamified Solana blockchain application that helps developers build consistent, healthy eating habits through rewards and streak tracking.
+A gamified Solana blockchain program that helps developers build consistent, healthy eating habits through rewards and streak tracking.
 
 
 ## The Problem
